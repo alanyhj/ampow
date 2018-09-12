@@ -1,0 +1,21 @@
+<div class="block block-layered-nav">
+    <div class="block-title">
+        <strong><span>Browse By</span></strong>
+    </div>
+    <div class="block-content">
+        <dl id="narrow-by-list2">
+            <dt>Category</dt>
+            <dd>
+                <ol>
+                                                        <li>
+                        <a href="https://www.ampow.com/fpv-practice-batteries.html?___SID=U">FPV Practice </a> (33)
+                    </li>
+                                                                            <li>
+                        <a href="https://www.ampow.com/fpv-racing-batteries.html?___SID=U">FPV Racing</a> (14)
+                    </li>
+                                                    </ol>
+            </dd>
+        </dl>
+        <script type="text/javascript">decorateDataList('narrow-by-list2')</script>
+    </div>
+</div>

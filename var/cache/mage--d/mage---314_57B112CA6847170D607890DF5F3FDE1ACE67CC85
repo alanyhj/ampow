@@ -1,0 +1,188 @@
+
+<nav class="nav-container">
+                    <div class="nav-mobilemenu-container visible-xs">
+                <div class="navbar">
+                        <div id="navbar-inner" class="navbar-inner navbar-inactive">
+                                <div class="menu-mobile">
+                                    <a class="btn btn-navbar navbar-toggle">
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                    </a>
+                                    <span class="brand navbar-brand">Menu</span>
+                                </div>
+                                <ul id="nav-mobilemenu" class="mobilemenu nav-collapse collapse">
+                                        <li class="level0 nav-1 level-top first parent">
+<a href="https://www.ampow.com/rc-hobby-batteries.html?___SID=U" class="level-top">
+<span>RC Hobby Batteries</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-1-1 first">
+<a href="https://www.ampow.com/rc-car-truck-batteries.html?___SID=U">
+<span>Car/Truck/Buggy/Boat</span>
+</a>
+</li><li class="level1 nav-1-2">
+<a href="https://www.ampow.com/airplane-heli-batteries.html?___SID=U">
+<span>Airplane/Heli</span>
+</a>
+</li><li class="level1 nav-1-3">
+<a href="https://www.ampow.com/drone-uav-batteries.html?___SID=U">
+<span>Drone/UAV </span>
+</a>
+</li><li class="level1 nav-1-4">
+<a href="https://www.ampow.com/micro-quad-batteries.html?___SID=U">
+<span>Micro Quad </span>
+</a>
+</li><li class="level1 nav-1-5 parent">
+<a href="https://www.ampow.com/fpv-batteries.html?___SID=U">
+<span>FPV</span>
+</a>
+<ul class="level1">
+<li class="level2 nav-1-5-1 first">
+<a href="https://www.ampow.com/fpv-practice-batteries.html?___SID=U">
+<span>FPV Practice </span>
+</a>
+</li><li class="level2 nav-1-5-2 last">
+<a href="https://www.ampow.com/fpv-racing-batteries.html?___SID=U">
+<span>FPV Racing</span>
+</a>
+</li>
+</ul>
+</li><li class="level1 nav-1-6">
+<a href="https://www.ampow.com/airsoft-gun-batteries.html?___SID=U">
+<span>Airsoft Gun</span>
+</a>
+</li><li class="level1 nav-1-7 last">
+<a href="https://www.ampow.com/money-saving-batteries-combos.html?___SID=U">
+<span>Batteries Combos</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-2 level-top parent">
+<a href="https://www.ampow.com/replacement-batteries.html?___SID=U" class="level-top">
+<span>Replacement Batteries</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-2-1 first">
+<a href="https://www.ampow.com/vacuum-cleaner-batteries.html?___SID=U">
+<span>Vacuum Cleaner</span>
+</a>
+</li><li class="level1 nav-2-2 last">
+<a href="https://www.ampow.com/drone-uav-replacement-batteries.html?___SID=U">
+<span>Drone/UAV</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-3 level-top">
+<a href="https://www.ampow.com/nimh-batteries.html?___SID=U" class="level-top">
+<span>NiMH Batteries</span>
+</a>
+</li><li class="level0 nav-4 level-top parent">
+<a href="https://www.ampow.com/find-battery-by-voltage.html?___SID=U" class="level-top">
+<span>Find Battery by Voltage</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-4-1 first">
+<a href="https://www.ampow.com/3-7v-1s-lipo-battery.html?___SID=U">
+<span>3.7v 1S lipo battery</span>
+</a>
+</li><li class="level1 nav-4-2">
+<a href="https://www.ampow.com/7-2v-nimh-battery.html?___SID=U">
+<span>7.2V NiMH Battery</span>
+</a>
+</li><li class="level1 nav-4-3">
+<a href="https://www.ampow.com/7-4v-2s-lipo-battery.html?___SID=U">
+<span>7.4V 2S Lipo Battery</span>
+</a>
+</li><li class="level1 nav-4-4">
+<a href="https://www.ampow.com/8-4v-nimh-battery.html?___SID=U">
+<span>8.4V NiMH Battery</span>
+</a>
+</li><li class="level1 nav-4-5">
+<a href="https://www.ampow.com/11-1v-3s-lipo-battery.html?___SID=U">
+<span>11.1 V 3S Lipo Battery </span>
+</a>
+</li><li class="level1 nav-4-6">
+<a href="https://www.ampow.com/14-8v-4s-lipo-battery.html?___SID=U">
+<span>14.8v 4S Lipo Battery</span>
+</a>
+</li><li class="level1 nav-4-7">
+<a href="https://www.ampow.com/18-5v-5s-lipo-battery.html?___SID=U">
+<span>18.5V 5S Lipo Battery</span>
+</a>
+</li><li class="level1 nav-4-8 last">
+<a href="https://www.ampow.com/22-2v-6s-lipo-battery.html?___SID=U">
+<span>22.2v 6s lipo battery </span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-5 active level-top parent">
+<a href="https://www.ampow.com/chargers.html?___SID=U" class="level-top">
+<span>Chargers</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-5-1 active first">
+<a href="https://www.ampow.com/power-banks.html?___SID=U">
+<span>Power Banks</span>
+</a>
+</li><li class="level1 nav-5-2">
+<a href="https://www.ampow.com/wall-chargers.html?___SID=U">
+<span>Wall Chargers</span>
+</a>
+</li><li class="level1 nav-5-3">
+<a href="https://www.ampow.com/car-chargers.html?___SID=U">
+<span>Car Chargers</span>
+</a>
+</li><li class="level1 nav-5-4 last">
+<a href="https://www.ampow.com/chargers-combos.html?___SID=U">
+<span>Chargers Combos</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-6 level-top">
+<a href="https://www.ampow.com/jump-starters.html?___SID=U" class="level-top">
+<span>Jump Starters</span>
+</a>
+</li><li class="level0 nav-7 level-top">
+<a href="https://www.ampow.com/drone.html?___SID=U" class="level-top">
+<span>Drone</span>
+</a>
+</li><li class="level0 nav-8 level-top last">
+<a href="https://www.ampow.com/accessories.html?___SID=U" class="level-top">
+<span>Accessories</span>
+</a>
+</li>                                        <li class="blog level0 level-top"><a href="https://www.ampow.com/blog/?___SID=U" class="level0" title="blog"><span>Blog</span></a></li>
+										   
+                                </ul>
+                        </div>
+                </div>
+            </div>
+                <div id="nav_megamenu" class="nav_megamenu visible-lg visible-md">
+                   
+                                    <div class="megamenu nav_product nav_newproduct">
+                <div class="level-top"><a href="https://www.ampow.com/newproduct.html"><span>New Arrivals</span></a><span class="new">New</span></div>
+              
+            </div>
+			
+			
+            
+            <div class="megamenu nav_product nav_saleproduct">
+                <div class="level-top"><a href="https://www.ampow.com/flashdeals.html"><span>Flash Deals</span></a><span class="hot">Hot</span></div>
+               
+            </div>
+			
+			
+            <div id="megamenu_link" class="megamenu"><div class="level-top"><p><a title="Best-Selling Lipo Battery on Ampow" href="https://www.ampow.com/topsellers.html">Top Sellers</a><a title="Ampow Blog" href="https://blog.ampow.com/">Blog</a></p></div></div>            
+            
+        </div>
+    <script type="text/javascript">
+    var MEGAMENU_EFFECT = 0;
+    jQuery(window).scroll(function () {
+      if (jQuery(this).scrollTop() > 200) {
+       jQuery('nav').addClass("fix-nav");
+      } else {
+       jQuery('nav').removeClass("fix-nav");
+      }
+    });
+    </script>
+</nav>

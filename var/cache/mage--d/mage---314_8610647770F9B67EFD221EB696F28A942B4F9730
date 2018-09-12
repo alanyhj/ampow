@@ -1,0 +1,156 @@
+
+
+<div class="block-static-information">
+    <div class="container">
+        <div class="static-info">
+            <div class="row">
+                <div class="col-md-3 col-sm-6 col-sms-6 col-smb-12" style="width: 20%;">
+<div class="banner-col banner-col1">
+<h3 class="title" style="text-align: center;"><img title="free shipping on ampow" src="https://www.ampow.com/media/wysiwyg/system/free-shipping.png" alt="free shipping on ampow" /><br /><span>Free Delivery</span><span class="text">On all order over $49</span></h3>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 col-sms-6 col-smb-12" style="width: 20%;">
+<div class="banner-col banner-col2">
+<h3 class="title" style="text-align: center;"><img title="High quality battery on ampow" src="https://www.ampow.com/media/wysiwyg/system/high-quality.png" alt="High quality battery on ampow" /><br /><span>High Quality</span><span class="text">Great value products</span></h3>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 col-sms-6 col-smb-12" style="width: 20%;">
+<div class="banner-col banner-col3">
+<h3 class="title" style="text-align: center;"><img title="Easy return on ampow" src="https://www.ampow.com/media/wysiwyg/system/easy-return.png" alt="Easy return on ampow" /><br /><span>Easy Return</span><span class="text">30 Days money back</span></h3>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 col-sms-6 col-smb-12" style="width: 20%;">
+<div class="banner-col banner-col4">
+<h3 class="title" style="text-align: center;"><img title="Good customer service on ampow" src="https://www.ampow.com/media/wysiwyg/system/customer-service.png" alt="Good customer service on ampow" /><br /><span>Expert Support</span><span class="text"> Good customer Service</span></h3>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 col-sms-6 col-smb-12" style="width: 20%;">
+<div class="banner-col banner-col5">
+<h3 class="title" style="text-align: center;"><img title="fast shipping on ampow" src="https://www.ampow.com/media/wysiwyg/system/fast-shipping.png" alt="fast shipping on ampow" /><br /><span>Fast Shipping</span><span class="text">Fast local delivery</span></h3>
+</div>
+</div>            </div>
+        </div>
+    </div>
+</div>
+<footer class="footer-wrapper">
+    <div class="container">
+        <div class="footer-inner">
+            <div class="footer-information">
+                    <div class="row">
+                        <div class="f-col f-col2 col-sm-6 col-md-3 col-sms-12 col-smb-12">
+<div class="footer-static-content">
+<div class="logo-footer"><a href="https://www.ampow.com/"><img style="width: 180px; margin-left: 20px; margin-top: 20px;" src="https://www.ampow.com/media/wysiwyg/logo2.png" alt="" /></a></div>
+</div>
+</div>
+<div class="f-col f-col3 col-sm-3 col-md-2 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h3>Payment &amp; Shipping</h3>
+</div>
+<div class="footer-static-content">
+<ul>
+<li class="first"><a href="https://www.ampow.com/payment-methods" rel="nofollow">Payment Methods</a></li>
+<li><a title="Shipping Policy" href="https://www.ampow.com/shipping-policy" rel="nofollow">Shipping Policy</a></li>
+<li><a title="Return Policy" href="https://www.ampow.com/return-policy" rel="nofollow">Return Policy/RMA</a></li>
+<li class="last"><a href="https://www.ampow.com/shippingtracking" rel="nofollow">Order Tracking</a></li>
+</ul>
+</div>
+</div>
+<div class="f-col f-col4 col-sm-3 col-md-2 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h3>Our Service</h3>
+</div>
+<div class="footer-static-content">
+<ul>
+<li class="first"><a title="Contact Us" href="https://www.ampow.com/contacts" rel="nofollow">Contact Us</a></li>
+<li><a href="https://www.ampow.com/faq" rel="nofollow">FAQ</a></li>
+<li><a href="https://www.ampow.com/battery-safety-information" rel="nofollow">Battery Safety Information</a></li>
+<li class="last"><a href="https://www.ampow.com/catalogsearch/advanced" rel="nofollow">Lipo Battery Finder</a></li>
+</ul>
+</div>
+</div>
+<div class="f-col f-col5 col-sm-4 col-md-2 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h3>Company Info</h3>
+</div>
+<div class="footer-static-content">
+<ul>
+<li class="first"><a href="https://www.ampow.com/about-us" rel="nofollow">About us</a></li>
+<li><a title="Terms and Conditions" href="https://www.ampow.com/terms-and-conditions" rel="nofollow">Terms &amp; Conditions</a></li>
+<li><a title="Privacy Policy" href="https://www.ampow.com/privacy-policy" rel="nofollow">Privacy Policy</a></li>
+<li class="last"><a title="Warranty Policy" href="https://www.ampow.com/warranty" rel="nofollow">Warranty Policy</a></li>
+</ul>
+</div>
+</div>
+<div class="f-col f-col1 col-sm-8 col-md-3 col-sms-6 col-smb-12">
+<div class="footer-static-title">
+<h3>Newsletter</h3>
+</div>
+<div class="footer-static-content"><div class="block block-subscribe">
+    <div class="block-title">
+        <strong><span>Newsletter</span></strong>
+    </div>
+    <form action="https://www.ampow.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div class="block-content">
+            <div class="form-subscribe-header">
+                <label for="newsletter">Sign Up for Our Newsletter:</label>
+            </div>
+            <div class="input-box">
+               <input type="text" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email" />
+            </div>
+            <div class="actions">
+                <button type="submit" title="Subscribe" class="button"><span><span>Subscribe</span></span></button>
+            </div>
+        </div>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+</div>
+</div>
+</div>                    </div>
+            </div>
+            <div class="footer-container">
+                    <div class="footer">
+                        <div class="row">
+						<div style="margin-left: 10px;">
+                                <ul class="links">
+                        <li class="first"><a href="https://www.ampow.com/catalog/seo_sitemap/category/" title="Site Map">Site Map</a></li>
+                               
+                                <li><a href="https://www.ampow.com/catalogsearch/advanced/" title="Advanced Search">Advanced Search</a></li>
+							
+                                <li class=" last"><a href="https://www.ampow.com/contacts/" title="Contact Us">Contact Us</a></li>
+                                    
+</ul>
+                               
+                            </div>
+                            <div class="col-xs-12 col-sm-6">
+                                <ul class="links">
+                        <li class="first" ><a href="https://www.ampow.com/catalog/seo_sitemap/category/?___SID=U" title="Site Map" >Site Map</a></li>
+                                <li ><a href="https://www.ampow.com/catalogsearch/term/popular/?___SID=U" title="Search Terms" >Search Terms</a></li>
+                                <li ><a href="https://www.ampow.com/catalogsearch/advanced/?___SID=U" title="Advanced Search" >Advanced Search</a></li>
+                                <li class=" last" ><a href="https://www.ampow.com/contacts/?___SID=U" title="Contact Us" >Contact Us</a></li>
+            </ul>
+                                <address class="copyright">Copyright &copy; 2018 by <a href="http://ampow.com/">ampow</a>. All Rights Reserved.</address>
+                            </div>
+                            <div class="col-xs-12 col-sm-6">
+                                <ul class="social">
+<li class="first"><img src="https://www.ampow.com/media/wysiwyg/social1.png" alt="" /></li>
+<li><img src="https://www.ampow.com/media/wysiwyg/social2.png" alt="" /></li>
+<li><img src="https://www.ampow.com/media/wysiwyg/social3.png" alt="" /></li>
+<li><img src="https://www.ampow.com/media/wysiwyg/social4.png" alt="" /></li>
+<li><img src="https://www.ampow.com/media/wysiwyg/AM.jpg" alt="" /></li>
+<li><img src="https://www.ampow.com/media/wysiwyg/discover.jpg" alt="" /></li>
+<li><img src="https://www.ampow.com/media/wysiwyg/solo.jpg" alt="" /></li>
+<li><img src="https://www.ampow.com/media/wysiwyg/wire.jpg" alt="" /></li>
+</ul>
+                            </div>
+                        </div>
+                        
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div id="back-top" class="hidden-xs"><i class="fa fa-angle-up"></i></div>
+</footer>

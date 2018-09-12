@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: /catalog/product_compare/
+Disallow: /review/product/list/
+Disallow: /wishlist/index/
+Disallow: /quickview/index/ajax/product_id/
+Disallow: /blog/
+Disallow: /*?*
+Sitemap: https://www.ampow.com/sitemap.xml
+
+User-agent: Googlebot-image
+Disallow:
+

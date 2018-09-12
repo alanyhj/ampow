@@ -1,0 +1,22 @@
+2018-08-10T10:34:16+00:00 DEBUG (7): 
+-------- FACEBOOK --------
+Array
+(
+    [type] => facebook
+    [error_code] => 1349048
+    [error_message] => Can't Load URL: The domain of this URL isn't included in the app's domains. To be able to load this URL, add all domains and subdomains of your app to the App Domains field in your app settings.
+)
+
+---------------------------------
+2018-08-30T10:00:03+00:00 DEBUG (7): 
+-------- FACEBOOK --------
+Array
+(
+    [type] => facebook
+    [error] => access_denied
+    [error_code] => 200
+    [error_description] => Permissions error
+    [error_reason] => user_denied
+)
+
+---------------------------------

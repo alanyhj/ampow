@@ -1,0 +1,363 @@
+
+<div class="nav-bar">
+<!-- menu start -->
+<ul id="nav">
+<li  class=" active  level0"> <a href="https://www.ampow.com/index.php/admin_emate/dashboard/index/key/$dashboard/index$/"   class="active"><span>Dashboard</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Sales</span></a>
+<ul >
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/sales_order/index/key/$sales_order/index$/"   class=""><span>Orders</span></a>
+</li>
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/sales_billing_agreement/index/key/$sales_billing_agreement/index$/"   class=""><span>Billing Agreements</span></a>
+</li>
+<li  class="  last level1"> <a href="https://www.ampow.com/index.php/admin_emate/checkout_agreement/index/key/$checkout_agreement/index$/"   class=""><span>Terms and conditions</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Catalog</span></a>
+<ul >
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/catalog_product/index/key/$catalog_product/index$/"   class=""><span>Manage Products</span></a>
+</li>
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/catalog_category/index/key/$catalog_category/index$/"   class=""><span>Manage Categories</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Attributes</span></a>
+<ul >
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/catalog_product_attribute/index/key/$catalog_product_attribute/index$/"   class=""><span>Manage Attributes</span></a>
+</li>
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/catalog_product_set/index/key/$catalog_product_set/index$/"   class=""><span>Manage Attribute Sets</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/urlrewrite/index/key/$urlrewrite/index$/"   class=""><span>URL Rewrite Management</span></a>
+</li>
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/catalog_search/index/key/$catalog_search/index$/"   class=""><span>Search Terms</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Reviews and Ratings</span></a>
+<ul >
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level2"> <a href="#"  onclick="return false" class=""><span>Customer Reviews</span></a>
+<ul >
+<li  class="  level3"> <a href="https://www.ampow.com/index.php/admin_emate/catalog_product_review/pending/key/$catalog_product_review/pending$/"   class=""><span>Pending Reviews</span></a>
+</li>
+<li  class="  last level3"> <a href="https://www.ampow.com/index.php/admin_emate/catalog_product_review/index/key/$catalog_product_review/index$/"   class=""><span>All Reviews</span></a>
+</li>
+</ul>
+</li>
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/rating/index/key/$rating/index$/"   class=""><span>Manage Ratings</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Tags</span></a>
+<ul >
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/tag/index/key/$tag/index$/"   class=""><span>All Tags</span></a>
+</li>
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/tag/pending/key/$tag/pending$/"   class=""><span>Pending Tags</span></a>
+</li>
+</ul>
+</li>
+<li  class="  last level1"> <a href="https://www.ampow.com/index.php/admin_emate/sitemap/index/key/$sitemap/index$/"   class=""><span>Google Sitemap</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Mobile</span></a>
+<ul >
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/mobile/index/key/$mobile/index$/"   class=""><span>Manage Apps</span></a>
+</li>
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/mobile/history/key/$mobile/history$/"   class=""><span>Submission History</span></a>
+</li>
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/mobile/template/key/$mobile/template$/"   class=""><span>Message Templates</span></a>
+</li>
+<li  class="  last level1"> <a href="https://www.ampow.com/index.php/admin_emate/mobile/queue/key/$mobile/queue$/"   class=""><span>Message Queue</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Customers</span></a>
+<ul >
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/customer/index/key/$customer/index$/"   class=""><span>Manage Customers</span></a>
+</li>
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/customer_group/index/key/$customer_group/index$/"   class=""><span>Customer Groups</span></a>
+</li>
+<li  class="  last level1"> <a href="https://www.ampow.com/index.php/admin_emate/customer_online/index/key/$customer_online/index$/"   class=""><span>Online Customers</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Promotions</span></a>
+<ul >
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/promo_catalog/index/key/$promo_catalog/index$/"   class=""><span>Catalog Price Rules</span></a>
+</li>
+<li  class="  last level1"> <a href="https://www.ampow.com/index.php/admin_emate/promo_quote/index/key/$promo_quote/index$/"   class=""><span>Shopping Cart Price Rules</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>CMS</span></a>
+<ul >
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/cms_page/index/key/$cms_page/index$/"   class=""><span>Pages</span></a>
+</li>
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/cms_block/index/key/$cms_block/index$/"   class=""><span>Static Blocks</span></a>
+</li>
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/widget_instance/index/key/$widget_instance/index$/"   class=""><span>Widgets</span></a>
+</li>
+<li  class="  last level1"> <a href="https://www.ampow.com/index.php/admin_emate/poll/index/key/$poll/index$/"   class=""><span>Polls</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Themevast</span></a>
+<ul >
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Onsaleslider Products</span></a>
+<ul >
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/system_config/edit/section/onsaleslider/key/$system_config/edit$/"   class=""><span>Configuration</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Newproductslider Products</span></a>
+<ul >
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/system_config/edit/section/newproductslider/key/$system_config/edit$/"   class=""><span>Configuration</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Randomslider Products</span></a>
+<ul >
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/system_config/edit/section/randomslider/key/$system_config/edit$/"   class=""><span>Configuration</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Sale Products</span></a>
+<ul >
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/system_config/edit/section/saleproduct/key/$system_config/edit$/"   class=""><span>Configuration</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="#"  onclick="return false" class=""><span>Themevast</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Image Slider</span></a>
+<ul >
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/imageslider/adminhtml_index/index/key/$adminhtml_index/index$/"   class=""><span>Manage Items</span></a>
+</li>
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/system_config/edit/section/imageslider/key/$system_config/edit$/"   class=""><span>Configuration</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>New Products</span></a>
+<ul >
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/system_config/edit/section/newproduct/key/$system_config/edit$/"   class=""><span>Configuration</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Bestsellerslider Products</span></a>
+<ul >
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/system_config/edit/section/bestsellerslider/key/$system_config/edit$/"   class=""><span>Configuration</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Caterory Search</span></a>
+<ul >
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/system_config/edit/section/categorysearch/key/$system_config/edit$/"   class=""><span>Configuration</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Featured Products</span></a>
+<ul >
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/system_config/edit/section/featuredproduct/key/$system_config/edit$/"   class=""><span>Configuration</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Related Slider</span></a>
+<ul >
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/system_config/edit/section/relatedslider/key/$system_config/edit$/"   class=""><span>Configuration</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Brandlogo</span></a>
+<ul >
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/brandlogo/adminhtml_brandlogo/index/key/$adminhtml_brandlogo/index$/"   class=""><span>Manage Items</span></a>
+</li>
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/system_config/edit/section/brandlogo/key/$system_config/edit$/"   class=""><span>Configuration</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Quick View</span></a>
+<ul >
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/system_config/edit/section/quickview/key/$system_config/edit$/"   class=""><span>Configuration</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Ajaxcart</span></a>
+<ul >
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/system_config/edit/section/ajaxcart/key/$system_config/edit$/"   class=""><span>Configuration</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>UpsellSlider</span></a>
+<ul >
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/system_config/edit/section/upsellslider/key/$system_config/edit$/"   class=""><span>Configuration</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent last level1"> <a href="#"  onclick="return false" class=""><span>Blog</span></a>
+<ul >
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/blog_admin/manage_blog/index/key/$manage_blog/index$/"   class=""><span>Posts</span></a>
+</li>
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/blog_admin/manage_comment/index/key/$manage_comment/index$/"   class=""><span>Comments</span></a>
+</li>
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/blog_admin/manage_cat/index/key/$manage_cat/index$/"   class=""><span>Categories</span></a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Banner Slider</span></a>
+<ul >
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/bannerslider_bannerslider/index/key/$bannerslider_bannerslider/index$/"   class=""><span>Manage Sliders</span></a>
+</li>
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/bannerslider_banner/index/key/$bannerslider_banner/index$/"   class=""><span>Manage Banners</span></a>
+</li>
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/bannerslider_standardslider/index/key/$bannerslider_standardslider/index$/"   class=""><span>Preview Slider Styles</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Report Banners</span></a>
+<ul >
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/bannerslider_report/index/key/$bannerslider_report/index$/"   class=""><span>Per Slider</span></a>
+</li>
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/bannerslider_report/banner/key/$bannerslider_report/banner$/"   class=""><span>All Sliders</span></a>
+</li>
+</ul>
+</li>
+<li  class="  last level1"> <a href="https://www.ampow.com/index.php/admin_emate/system_config/edit/section/bannerslider/key/$system_config/edit$/"   class=""><span>Settings</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Reports</span></a>
+<ul >
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Sales</span></a>
+<ul >
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_sales/sales/key/$report_sales/sales$/"   class=""><span>Orders</span></a>
+</li>
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_sales/tax/key/$report_sales/tax$/"   class=""><span>Tax</span></a>
+</li>
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_sales/invoiced/key/$report_sales/invoiced$/"   class=""><span>Invoiced</span></a>
+</li>
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_sales/shipping/key/$report_sales/shipping$/"   class=""><span>Shipping</span></a>
+</li>
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_sales/refunded/key/$report_sales/refunded$/"   class=""><span>Refunds</span></a>
+</li>
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_sales/coupons/key/$report_sales/coupons$/"   class=""><span>Coupons</span></a>
+</li>
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/paypal_reports/index/key/$paypal_reports/index$/"   class=""><span>PayPal Settlement Reports</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Shopping Cart</span></a>
+<ul >
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_shopcart/product/key/$report_shopcart/product$/"   class=""><span>Products in carts</span></a>
+</li>
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_shopcart/abandoned/key/$report_shopcart/abandoned$/"   class=""><span>Abandoned carts</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Products</span></a>
+<ul >
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_sales/bestsellers/key/$report_sales/bestsellers$/"   class=""><span>Bestsellers</span></a>
+</li>
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_product/sold/key/$report_product/sold$/"   class=""><span>Products Ordered</span></a>
+</li>
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_product/viewed/key/$report_product/viewed$/"   class=""><span>Most Viewed</span></a>
+</li>
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_product/lowstock/key/$report_product/lowstock$/"   class=""><span>Low stock</span></a>
+</li>
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_product/downloads/key/$report_product/downloads$/"   class=""><span>Downloads</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Customers</span></a>
+<ul >
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_customer/accounts/key/$report_customer/accounts$/"   class=""><span>New Accounts</span></a>
+</li>
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_customer/totals/key/$report_customer/totals$/"   class=""><span>Customers by orders total</span></a>
+</li>
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_customer/orders/key/$report_customer/orders$/"   class=""><span>Customers by number of orders</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Tags</span></a>
+<ul >
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_tag/customer/key/$report_tag/customer$/"   class=""><span>Customers</span></a>
+</li>
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_tag/product/key/$report_tag/product$/"   class=""><span>Products</span></a>
+</li>
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_tag/popular/key/$report_tag/popular$/"   class=""><span>Popular</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Reviews</span></a>
+<ul >
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_review/customer/key/$report_review/customer$/"   class=""><span>Customers Reviews</span></a>
+</li>
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/report_review/product/key/$report_review/product$/"   class=""><span>Products Reviews</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/report/search/key/$report/search$/"   class=""><span>Search Terms</span></a>
+</li>
+<li  class="  last level1"> <a href="https://www.ampow.com/index.php/admin_emate/report_statistics/index/key/$report_statistics/index$/"   class=""><span>Refresh Statistics</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>System</span></a>
+<ul >
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/system_account/index/key/$system_account/index$/"   class=""><span>My Account</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Magestore Extensions</span></a>
+<ul >
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/system_config/edit/section/magenotificationcerts/key/$system_config/edit$/"   class=""><span>License Certificates</span></a>
+</li>
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/magenotification_feedback/index/key/$magenotification_feedback/index$/"   class=""><span>Extension Feedbacks</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="https://www.ampow.com/index.php/admin_emate/notification/index/key/$notification/index$/"   class=""><span>Notifications</span></a>
+<ul >
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/magenotification_magenotification/index/key/$magenotification_magenotification/index$/"   class=""><span>Magestore</span></a>
+</li>
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/notification/index/key/$notification/index$/"   class=""><span>System</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Tools</span></a>
+<ul >
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/system_backup/index/key/$system_backup/index$/"   class=""><span>Backups</span></a>
+</li>
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/smtp_log/index/key/$smtp_log/index$/"   class=""><span>SMTPPro - Email Log</span></a>
+</li>
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/compiler_process/index/key/$compiler_process/index$/"   class=""><span>Compilation</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/system_design/index/key/$system_design/index$/"   class=""><span>Design</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="https://www.ampow.com/index.php/admin_emate/system_currency/index/key/$system_currency/index$/"   class=""><span>Manage Currency</span></a>
+<ul >
+<li  class="  level2"> <a href="https://www.ampow.com/index.php/admin_emate/system_currency/index/key/$system_currency/index$/"   class=""><span>Rates</span></a>
+</li>
+<li  class="  last level2"> <a href="https://www.ampow.com/index.php/admin_emate/system_currencysymbol/index/key/$system_currencysymbol/index$/"   class=""><span>Symbols</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/system_email_template/index/key/$system_email_template/index$/"   class=""><span>Transactional Emails</span></a>
+</li>
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/system_variable/index/key/$system_variable/index$/"   class=""><span>Custom Variables</span></a>
+</li>
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/cache/index/key/$cache/index$/"   class=""><span>Cache Management</span></a>
+</li>
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/process/list/key/$process/list$/"   class=""><span>Index Management</span></a>
+</li>
+<li  class="  level1"> <a href="https://www.ampow.com/index.php/admin_emate/sales_order_status/index/key/$sales_order_status/index$/"   class=""><span>Order Statuses</span></a>
+</li>
+<li  class="  last level1"> <a href="https://www.ampow.com/index.php/admin_emate/system_config/index/key/$system_config/index$/"   class=""><span>Configuration</span></a>
+</li>
+</ul>
+</li>
+</ul>
+<!-- menu end -->
+
+    <a id="page-help-link" href="http://www.magentocommerce.com/gethelp/en_US/Mage_Adminhtml/dashboard/index/">Get help for this page</a>
+    <script type="text/javascript">$('page-help-link').target = 'magento_page_help'</script>
+
+</div>

@@ -37,27 +37,27 @@ Category default layout
         </reference>
     </default>
 
-    <!--<catalog_category_default>
+    <catalog_category_default>
         <reference name="left">
             <block type="directory/currency" name="currency" before="catalog.leftnav" template="directory/currency.phtml"/>
         </reference>
-    </catalog_category_default>-->
+    </catalog_category_default>
 
 <!--
 Category layered navigation layout
 -->
 
-    <!--<catalog_category_layered>
+    <catalog_category_layered>
         <reference name="left">
             <block type="directory/currency" name="currency" before="catalog.leftnav" template="directory/currency.phtml"/>
         </reference>
-    </catalog_category_layered>-->
+    </catalog_category_layered>
 
 <!--
 Catalog Search layout
 -->
 
-    <!--<catalogsearch_advanced_index>
+    <catalogsearch_advanced_index>
         <reference name="left">
             <block type="directory/currency" name="right_currency" before="-" template="directory/currency.phtml"/>
         </reference>
@@ -73,6 +73,6 @@ Catalog Search layout
         <reference name="right">
             <block type="directory/currency" name="right_currency" before="-" template="directory/currency.phtml"/>
         </reference>
-    </catalogsearch_advanced_result>-->
+    </catalogsearch_advanced_result>
 
 </layout>

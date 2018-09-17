@@ -1,0 +1,122 @@
+<?php
+/**
+ * Magento
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Academic Free License (AFL 3.0)
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/afl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magentocommerce.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+ * versions in the future. If you wish to customize Magento for your
+ * needs please refer to http://www.magentocommerce.com for more information.
+ *
+ * @category    design
+ * @package     base_default
+ * @copyright   Copyright (c) 2014 Magento Inc. (http://www.magentocommerce.com)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ */
+/**
+ * @var Mage_Page_Block_Html_Header $this
+ */
+?>
+<style>
+ .cart-mini-title .cart-count{
+	  display:none;
+  }
+</style>
+<header class="header-wrapper">
+    <div id="header-special-offer">
+        <div class="container">
+            <div class="promotion">
+                <span class="header-special-offer-close"><i class="fa fa-times"></i></span>
+                <?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('promotion')->toHtml() ?>
+            </div>
+        </div>
+    </div>
+    <div class="header-quick-access">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                    <div class="quick-access">
+                        <div class="language-currency">
+                         
+                            <div class="header-currency">
+                                
+								
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" style="display: none;">
+				  <?php echo $this->getChildHtml('store_language') ?>
+                    <div class="header-toplinks">
+					
+                            <?php echo $this->getChildHtml('topLinks') ?>
+                        </div>
+                    <!--<p class="welcome-msg"><?php //echo $this->getChildHtml('welcome') ?><?php //echo $this->getAdditionalHtml() ?></p>-->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="header">
+        <div class="container" style="    margin-top: -150px;">
+            <div class="page-header-content">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" style="position: absolute;
+    top: 125px;
+    z-index: 999;
+    width: 50%;
+    margin-left: 85px;">
+                        
+                        <h1 class="logo"><strong><?php echo $this->getLogoAlt() ?></strong><a href="<?php echo $this->getUrl('') ?>" title="<?php echo $this->getLogoAlt() ?>" class="logo"><img style="margin-top: -15px;height: 50px;" src="<?php echo $this->getLogoSrc() ?>" alt="<?php echo $this->getLogoAlt() ?>" /></a></h1>
+                        
+                    </div>
+						
+					<style>
+a:hover
+{
+color:#fff;
+}
+</style>
+                    </div>
+                       
+					<div class="nav_wish" style="position: relative;text-align: center;float: right;width: 60px;margin-right: -118px;z-index: 9;">
+				<a href="#" rel="nofollow" class="top_wish_button_170412" data-point-id="1100100156" style="
+    color: #fff;
+    line-height: 25px;
+"><u style="display: block;width: 27px;height: 25px;background: url(https://css.banggood.com/images/new_icon_180508.png) no-repeat -205px -137px;position: absolute;top: -4px;right: 50%;text-align:  center;margin-right:25px;margin-top: 10px;
+"></u><s style="text-decoration: none;display: inline-block;color: #fff;margin-top: 10px;"><a href="https://www.ampow.com/wishlist/" style="color:white"  rel="nofollow">Wish</a></s> <!-- (<span id="userwish">0</span>) --></a>
+			</div>
+					</div>
+					
+					
+                    <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3" style="margin-top: 30px;margin-left: -1px;">
+			
+					-
+					
+                         <div class="header-cart-mini" style="position: absolute;
+    top: 36px;
+    right: 0;">
+						
+                            <div class="topcart-mini-container">
+                                <?php echo $this->getChildHtml('top_cart_mini') ?>
+                            </div>
+                        </div>
+                    </div>
+                </div> 
+                <?php echo $this->getChildHtml('topMenu') ?>
+				 <?php echo $this->getChildHtml('topSearch') ?>
+            </div>
+        </div>
+    </div>
+    <?php echo $this->getChildHtml('topContainer'); ?>
+</header>
+

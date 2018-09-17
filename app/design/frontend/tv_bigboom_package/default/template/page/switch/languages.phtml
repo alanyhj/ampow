@@ -1,0 +1,115 @@
+<?php
+/**
+ * Magento
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Academic Free License (AFL 3.0)
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/afl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magentocommerce.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+ * versions in the future. If you wish to customize Magento for your
+ * needs please refer to http://www.magentocommerce.com for more information.
+ *
+ * @category    design
+ * @package     base_default
+ * @copyright   Copyright (c) 2014 Magento Inc. (http://www.magentocommerce.com)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ */
+?>
+<?php
+/**
+ * Language switcher template
+ *
+ * @see Mage_Page_Block_Switch
+ */
+?>
+
+<?php if(count($this->getStores())>1): ?>
+<div class="form-language" style="display:none;"> 
+	<label class="select-language"><?php echo $this->__('Language:') ?></label>
+
+    <ul class="drop-lang">
+        <li class="drop-trigger">
+            <?php foreach ($this->getStores() as $_lang): ?>
+            <?php if($_lang->getId() == $this->getCurrentStoreId()): ?>
+			 
+            <a class="<?php echo $_lang->getCode() ?>" href="<?php echo $_lang->getCurrentUrl() ?>" ><img src="<?php echo $this->getSkinUrl('images/flags/' . $_lang->getCode() . '.png');?>" alt="<?php echo $this->htmlEscape($_lang->getName()) ?>"><?php echo $this->htmlEscape($_lang->getName()) ?><i class="fa fa-caret-down"></i></a>
+			
+            <?php endif?>
+            <?php endforeach; ?>
+			
+        <ul class="sub-lang">
+    <?php foreach ($this->getStores() as $_lang): ?>
+        <?php $_selected = ($_lang->getId() == $this->getCurrentStoreId()) ? ' class="selected"' : '' ?>
+
+        <li><a class="<?php echo $_lang->getCode() ?>" href="<?php echo $_lang->getCurrentUrl() ?>" ><img src="<?php echo $this->getSkinUrl('images/flags/' . $_lang->getCode() . '.png');?>" alt="<?php echo $this->htmlEscape($_lang->getName()) ?>"><?php echo $this->htmlEscape($_lang->getName()) ?></a></li>
+    <?php endforeach; ?>
+        </ul>
+        </li>
+		
+    </ul>
+</div>
+<?php endif; ?>
+
+<ul class="drop-lang" style="margin-right: 45%;margin-top: 10px;">
+        <li class="drop-trigger">
+                        			 
+            <a class=""  rel="nofollow" href="https://www.ampow.com/contacts"><img style="margin-top: -2px;" src="https://www.ampow.com/media/wysiwyg/mail.png" />&nbsp Contact Us</a>
+			
+     
+        </li>
+    </ul>
+
+<ul class="drop-lang" style="margin-right: 3%;margin-top: 10px;">
+        <li class="drop-trigger">
+                        			 
+            <a rel="nofollow"><img style="margin-top: -2px;"  src="https://www.ampow.com/media/wysiwyg/renyuan.png" />&nbsp Account<i class="fa fa-caret-down"></i></a>
+			
+         <ul class="sub-lang">
+            
+        <li><a href="https://www.ampow.com/customer/account/" rel="nofollow">My Account</a></li>
+            
+        <li><a href="https://www.ampow.com/wishlist/" rel="nofollow">My Wishlist</a></li>
+            
+        <li><a href="https://www.ampow.com/checkout/cart/" rel="nofollow">My Orders</a></li>
+		   <li> <?php if (Mage::helper('customer')->isLoggedIn() ): ?>
+            <a href="<?php echo Mage::helper('customer')->getLogoutUrl(); ?>" rel="nofollow">Log out</a>
+
+        <?php 
+    /*
+    else: ?>
+            <a href="<?php echo Mage::helper('customer')->getLoginUrl(); ?>">SIGN IN</a>
+        <?php 
+    */
+    endif; ?></li>
+            </ul>
+        </li>
+    </ul>
+
+
+	<<ul class="drop-lang" style="margin-right: -65%;margin-top: 10px;">
+
+
+    <li class=" last"><a style="float: left;background: white;color: #0d2131;border-radius: 8px;width: 70px;height: 25px;" href="https://www.ampow.com/index.php/customer/account/login/" title="Log In" rel="nofollow">
+            <img style="margin-top: -2px;color: #0d2131;" src="https://www.ampow.com/media/wysiwyg/suo.png" />Log In</a>&nbsp;
+
+        <span style="color: #888;"><b>/</b></span>&nbsp;<a style="float: right;" href="https://www.ampow.com/index.php/customer/account/create/" title="Customer Register" rel="nofollow">Join Free</a>
+
+
+
+    </li>
+
+</ul>
+	
+	
+	
+	
+	

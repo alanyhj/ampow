@@ -40,12 +40,6 @@ Default layout, loads most of the pages
                 <action method="setBlockId"><block_id>footer_links</block_id></action>
             </block>
         </reference>
-        <reference name="left">
-            <block type="page/html" name="banner.left" after="bestseller" template="themevast/banner_left.phtml"/>
-        </reference>
-        <reference name="home_block_top">
-            <block type="page/html" name="home.block.top" template="themevast/home_banner_content.phtml"/>
-        </reference>
     </default>
     
     <cms_page translate="label">
@@ -62,23 +56,6 @@ Default layout, loads most of the pages
 
     <cms_index_index translate="label">
         <label>CMS Home Page</label>
-        <reference name="top_banner_static">
-            <block type="page/html" name="top.banner.static" template="themevast/top_banner_static.phtml"/>
-        </reference>
-        <reference name="home_banner_content">
-            <block type="page/html" name="home.banner.content" template="themevast/home_banner_content.phtml"/>
-        </reference>
-        <reference name="vmegamenu_banner">
-            <block type="page/html" name="vmegamenu.banner" template="themevast/vmegamenu_banner.phtml"/>
-        </reference>
-        <block type="newsletter/subscribe" name="popup.newsletter" template="themevast/newsletter/subscribe.phtml"/>
-        <reference name="content">
-            <action method="insert">
-                <block>popup.newsletter</block>
-            </action>
-        </reference>
-        <remove name="catalog.compare.sidebar" />
-        <remove name="left.blog.menu" />
     </cms_index_index>
 
     <cms_index_defaultindex>

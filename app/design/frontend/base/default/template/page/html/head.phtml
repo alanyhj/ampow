@@ -29,11 +29,8 @@
 <meta name="description" content="<?php echo htmlspecialchars($this->getDescription()) ?>" />
 <meta name="keywords" content="<?php echo htmlspecialchars($this->getKeywords()) ?>" />
 <meta name="robots" content="<?php echo htmlspecialchars($this->getRobots()) ?>" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 <link rel="icon" href="<?php echo $this->getFaviconFile(); ?>" type="image/x-icon" />
 <link rel="shortcut icon" href="<?php echo $this->getFaviconFile(); ?>" type="image/x-icon" />
-<!--<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-<link href='https://fonts.googleapis.com/css?family=Raleway:400,700,500,600' rel='stylesheet' type='text/css'>-->
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
@@ -43,10 +40,6 @@
 </script>
 <![endif]-->
 <?php echo $this->getCssJsHtml() ?>
-<link rel="stylesheet" type="text/css" href="<?php echo $this->getSkinUrl('css/mobileresponsive.css'); ?>" media="all" />
 <?php echo $this->getChildHtml() ?>
 <?php echo $this->helper('core/js')->getTranslatorScript() ?>
 <?php echo $this->getIncludes() ?>
-
-<?php  $color = Mage::getStoreConfig('themevast/general/themecolor'); ?>
-<link rel="stylesheet" type="text/css" href="<?php echo $this->getSkinUrl("css/$color"); ?>" media="all" />
